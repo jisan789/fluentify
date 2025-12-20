@@ -1,0 +1,7 @@
+{
+  "name": "Fluentify AI - Your English Companion",
+  "description": "An interactive AI English tutor that helps you improve your speaking and writing through real-time conversation, corrections, and personalized feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
